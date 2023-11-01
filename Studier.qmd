@@ -1,0 +1,42 @@
+---
+title: "Studier"
+format: html
+---
+
+Sammenlikne studier: 
+
+1: Block periodization of high-intensity aerobic intervals provides superior training effects in trained cyclists (2012). B.R. Rønnestad., J. Hansen & S. Ellefsen. DOI: 10.1111/j.1600-0838.2012.01485.x 
+
+21 mannlige syklister (godt trente) deltok i studien. 19 fullførte. 10 stk i blokkperiodiseringsgruppa og 9 stk i tradisjonell gruppa. BP = én uke med 5 HIT økter + 3 uker med én HIT økt og resten rolig. TRAD = 2 x HIT økter pr uke, resten rolig. Samme volum av HIT og LIT i begge gruppene i løpet av de 4 ukene. 
+
+HIT øktene ble gjennomført i sone 3 (88-100% av HR max). HIT øktene på sykkel 
+
+Gjennomføring av Pre og Post test på sykkel i like omstendigheter. Siste HIT økt 2 dager før test. Måling av laktatprofil og VO2-maks: gjennomsnittet av de to høyeste VO2-målingene gjeldende som VO2maks. Hadde kriterier på om VO2maks var oppnådd ved bruk av HR, RER og LA. Noterte ned opplevd "anstrengelse" i beina i hver uke. HIT gruppa opplevde slitne bein under HIT-uka, men kom tilbake til utgangsnivået i løpet av de rolige ukene. TRAD-gruppa opplevde lik anstrengelse i beina under hele perioden. 
+
+BP økte signifikant i VO2 maks, men det ikke var økning hos TRAD. 
+
+Spesifikk spørsmål: Fører blokkperiodisering av HIT til økning i VO2maks kontra tradisjonell trening sett at den totale treningsmengden er lik, både når det gjelder HIT og LIT. 
+
+Svakheter: Kun 4 uker -> én treningsintervensjon. 
+Styrker: HIT og TRAD veldig lik treningsstatus før perioden, og treningsgrunnlag. De langvarige effektene forblir ukjente. Inneholder ingen prestasjonstest på sykkel.  
+
+
+2: Effects of 12 weeks of block periodization on performance and performance indices in well-trained cyclists
+
+15 mannlige godt trente syklister deltok i studien. BP = 8 og TRAD = 7. BP = én uke med 5 HIT økter etterfulgt av 4 uker med én HIT økt. TRAD = 2 HIT økter hver uke. Gjennomførte dette i 12 uker. Det totale treningsvolumet og HIT økter var likt i begge gruppene. Likt utgangspunkt før treningsintervensjonen basert på treningserfaring og VO2maks. Likt LIT de siste 2 mnd før perioden. 
+
+Pre og post test. HIT øktene ble gjennomført i sone 3 (88-100% HR max), på sykkel. LIT øktene skulle ha en varighet på minimum 1 t i sone 1 (60-82% av HR max). De rapporterte opplevd anstrengelse i beina hver uke, i en skala fra 1-9. 
+
+Testdag: En laktatprofil + VO2 maks test dag 1. Dag 2: 40 minutters all out. Siste HIT økt 3 dager før hver test. Ellers lik omstendigheter rundt hver test. Lik VO2maks test som studie 1. 
+
+40 minutters all out test ble gjennomført etter 15 min oppvarming av eget ønske med innlagt 2-3 submaksimale drag. Mål om å sykle med så høy gjennomsnitts effekt som mulig. De styrte motstanden selv.
+
+Statistikk: Presentert som gjennomsnitt +/- standardavvik. Uparret standard t-test brukt for å teste forskjellen mellom grupper ved baseline og treningsvolum. ANOVA test viste ingen forkskjeller mellom gruppene fra pre til post test. Grunn kan være lite utvalgstørrelse og godt trente personer. Derfor ble de brukt t-test og ES (kriterier for disse). Pre-intervensjonen til post-intervensjonen innenfor gruppeforskjeller ble sammenliknet ved bruk av parret student t-test av VO2maks. For å teste for relative forskjeller mellom gruppene ble uparret student t-test brukt. Større enn 0.05 i p-verdi ble ansett som signifikante. 
+
+Like tester for å finne resultat i disse to studiene. 
+
+Ingen signifikante forskjeller i gruppene før treningsintevensjonen. I ukene med HIT blokk opplevde HIT gruppe større opplevd anstrengelse i beina. Mens de resterende ukene var like mellom alle. 
+
+Relativ endring i VO2 maks var større i BP enn hos TRAD. Gjennomsnitlig ES viste en moderat effekt av BP kontra TRAD. Større effekter i økning for VO2 maks hos BP enn hos TRAD. 
+
+Hypotesen i denne studien antok at BP ville få store effekter på VO2 maks, laktatterskel, arbeidsøkonomi og 40 minutters prestasjonstest i forhold til TRAD. 
