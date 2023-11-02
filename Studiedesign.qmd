@@ -1,6 +1,10 @@
 ---
 title: "Arbeidskrav 5 Studiedesign - rapport"
 format: pdf
+bibliography: Documents/Master/Arbeidskrav4Studiedesign/Referanser/Referanser.R
 ---
 
-Studedesign: 
+[rønnestad2014]
+
+
+
