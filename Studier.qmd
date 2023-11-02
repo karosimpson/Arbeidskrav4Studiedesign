@@ -23,7 +23,7 @@ Styrker: HIT og TRAD veldig lik treningsstatus før perioden, og treningsgrunnla
 
 2: Effects of 12 weeks of block periodization on performance and performance indices in well-trained cyclists
 
-15 mannlige godt trente syklister deltok i studien. BP = 8 og TRAD = 7. BP = én uke med 5 HIT økter etterfulgt av 4 uker med én HIT økt. TRAD = 2 HIT økter hver uke. Gjennomførte dette i 12 uker. Det totale treningsvolumet og HIT økter var likt i begge gruppene. Likt utgangspunkt før treningsintervensjonen basert på treningserfaring og VO2maks. Likt LIT de siste 2 mnd før perioden. 
+15 mannlige godt trente syklister deltok i studien. BP = 8 og TRAD = 7. BP = én uke med 5 HIT økter etterfulgt av 4 uker med én HIT økt. TRAD = 2 HIT økter hver uke. Gjennomførte dette i 12 uker. Det totale treningsvolumet og HIT økter var likt i begge gruppene. Likt utgangspunkt før treningsintervensjonen basert på treningserfaring og VO2maks. Likt LIT de siste 2 mnd før perioden. Gjennomført i forberedelsesperiode. 
 
 Pre og post test. HIT øktene ble gjennomført i sone 3 (88-100% HR max), på sykkel. LIT øktene skulle ha en varighet på minimum 1 t i sone 1 (60-82% av HR max). De rapporterte opplevd anstrengelse i beina hver uke, i en skala fra 1-9. 
 
@@ -40,3 +40,44 @@ Ingen signifikante forskjeller i gruppene før treningsintevensjonen. I ukene me
 Relativ endring i VO2 maks var større i BP enn hos TRAD. Gjennomsnitlig ES viste en moderat effekt av BP kontra TRAD. Større effekter i økning for VO2 maks hos BP enn hos TRAD. 
 
 Hypotesen i denne studien antok at BP ville få store effekter på VO2 maks, laktatterskel, arbeidsøkonomi og 40 minutters prestasjonstest i forhold til TRAD. 
+
+3: 5-week block periodization increases aerobic power in elite cross-country skiers
+
+Sammenlikne effekten av organisering av utholdenhetstrening på elitelangrennsløpere som nærmer seg konkurranseperiode. 19 langrennsløpere deltok. 
+
+BP (10) gjennomførte 5 uker, der uke 1 og 3 bestod av henholdsvis 5 og 3 HIT økter. En HIT økt i de resterende 3 ukene. TRAD (9) gjennomførte 2 x HIT økter hver uke, bortsett fra uke 3 der de gjennomførte 3 HIT økter. Det totale treningsvolumet og mengden HIT økter var likt mellom begge gruppene. Både kvinner og menn, skiskyttere og langrennsløpere. SKiskytterne var fordelt likt i begge gruppene. Tilfeldig inndelt på bakgrunn av VO2maks. De beste var blant topp 3 i nasjonale skirenn, mens de dårligste var topp 30. 
+
+VO2 maks test ble kjørt på tredemølle skate før og etter intervensjonen. Trening i sone 3 ble gjennomført som HIT økter, 5x6 min eller 6x5 min. 50 % av HIT øktene skulle være skøyting på rulleski eller ski. BP og TRAD gjennomførte like mange HIT økter i skate. LIT øktene minimum 1 t i sone 1. 
+
+Resultat: BP økte VO2maks signifikant, mens det ikke var noe økning hos TRAD. Effektstørrelsen av den relative forbedringene i disse målingene viste moderat effekt av BP kontra TRAD. Denne studien antyder at blokkperiodisering av utholdenhetstrening har overlegne effekter på flere utholdenhets- og prestasjonsindekser sammenlignet med tradisjonell organisering. 
+
+Svakheter: ingen prestasjonstest. 
+Styrker: også litt endring hos TRAD gruppa i form av én uke med 3 HIT økter. 
+
+Samme volum av HIT og LIT på begge gruppene. 
+
+Hypotese: Antar at BP vil gi en overlegen effekt på målinger på aerob kapasitet kontra TRAD. 
+
+4: No Differences Between 12 Weeks of Block- vs. Traditional-Periodized Training in Performance Adaptations in Trained Cyclists
+
+Formålet var å sammenliken effekten av 12 ukers blokkperiodisering ved bruk av konsentrerte HIT, MIT og LIT uker for BP, men blandingsuker av HIT, MIT og LIT for TRAD med en syklis progressiv økning i treningsbelastning over 4 og 12 uker hos trente syklister. 
+
+Det var 30 deltakere med i studien. BP = 14 og TRAD = 16. Trente syklister. Det ble brukt en ukentlig syklus av progressiv belastning. Basert på gjennomsnittlige power output (PO) på en 40 mintters Time trial screening på sykkel ble deltakerne tifeldig fordelt i enten TRAD eller BP. TRAD: trente like uker med relativ lik fordeling av HIT, MIT og LIT. Mens BP: blokkerte periodiseringen i form av uker med kun HIT, MIT eller LIT trening. I den første meso-syklusen (4 uker) var uke 4 en restitusjonsuke for begge gruppene, og det totale timenatellet for HIT, MIT og LIT var likt i begge gruppene. MIT og HIT øktene var relativt like. Post test ble gjennomøført +/- 4-2 dager etter siste HIT/MIT økt. Den 4.uken i hver mesosyklus var en restitusjonsuke. Men denne ble brukt som en catch-up til de som ikke hadde gjennomført alle HIT/MIT øktene i de tidlgiere ukene. HIT øktene: 5x5 min og MIT = 4x12 min for BP. TRAD hadde eg progresjon med 4-5-6 x 5 min for de tre første HIT øktene og 3-4-5 for de MIT øktene (i hver mesosysklus).  Siste HIT og MIT økt var lik for begge gruppene for å sikre lik restitusjon foran test.  Brukte RPE som score på opplevd belastning. MIT: 14-18 og HIT: 16-19
+
+De kunne gjennomføre alle HIT og MIT øktene under omsyn, men måtte gjennomføre 4 harde økter under tilsyn av testleder. Alle harde økter ble gjennomført på sykkel. 
+
+Resultat: Gjennomførte én VO2maks test etter uke 4 (meso1) og etter uke 12. Ingen endring i VO2 maks i noen av gruppene mellom pre og post test. Studien viser altså ingen forskjell i treningseffekt (VO2maks) ved bruk av syklus med en progressiv økende treningsbelastnig hos trente syklister. Selv om HIT har vist seg å være overlegen MIT bare når det gjelder å forbedre VO2max og Wmax (Stoggl og Sperlich, 2014), kan det hevdes at MIT er en naturlig del av en godt utformet utholdenhetstreningsplan for utholdenhetstrene individer (Jones, 2006).
+
+Ytelse og fysiologiske mål ble presentert som gjennomsnitt +/- SD. 
+
+
+
+
+
+
+Total: 
+
+Styrker: Alle HIT-økter ble gjennomført i bevegelsesformen som testingen ble gjennomført i. 
+Siste HIT og MIT økt var lik for begge gruppene for å sikre lik restitusjon foran test.  
+
+Svakheter: all trening gjennomført aleine på studie 1-4. 
