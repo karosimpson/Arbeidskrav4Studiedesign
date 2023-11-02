@@ -1,8 +1,6 @@
 ---
-title: "Arbeidskrav 5 Studiedesign"
+title: "Arbeidskrav 5 Studiedesign - rapport"
 format: pdf
 ---
 
 Studedesign: 
-
-Start her
