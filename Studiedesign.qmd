@@ -4,9 +4,10 @@ format: pdf
 bibliography: referanser/referanser.bib
 ---
 
-[rønnestad2014]
+# Introduksjon
+
+I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på VO$_{2maks}$ [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010]. Studiene er analysert, og det vil bli presentert styrker og svakheter ved disse. I tillegg er det sett på studiedesign, og spørsmål som studiene prøver å besvare sammenliknes. Avslutningsvis gis det råd om hvordan fremtidige studier bør utformes for å besvare lignende spørsmål.
 
 
 
-
-
+Kilder: \[rønnestad2014\]
