@@ -20,6 +20,8 @@ Spesifikk spørsmål: Fører blokkperiodisering av HIT til økning i VO2maks kon
 Svakheter: Kun 4 uker -> én treningsintervensjon. 
 Styrker: HIT og TRAD veldig lik treningsstatus før perioden, og treningsgrunnlag. De langvarige effektene forblir ukjente. Inneholder ingen prestasjonstest på sykkel.  
 
+Hypotese: Antok at blokkperiodisering ville gi en overlegen effekt på VO2maks. 
+
 
 2: Effects of 12 weeks of block periodization on performance and performance indices in well-trained cyclists
 
@@ -70,7 +72,17 @@ Resultat: Gjennomførte én VO2maks test etter uke 4 (meso1) og etter uke 12. In
 
 Ytelse og fysiologiske mål ble presentert som gjennomsnitt +/- SD. 
 
+5: Block training periodization in alpine skiing: eVects of 11-day HIT on VO2max and performance
 
+Hypotiserte at 11 dager mikrosyklus med 15 HIT økter vil føre til større økning i VO2 maks enn kontrollgruppa som trener konvensjonell mikset trening. 
+
+21 trente alpintutøvere deltok i studien. Alle hadde trent regelmessig i over 3 år og deltatt i nasjonale FIS-renn. Gjennomført i forberedelsesperioden. Alle øktene ble gjennomført under kontrolerte omstendigheter på et treningssenter. HIT = 13 og TRAD = 8. Deltakerne ble gruppert randomisert på bakgrunn av lik VO2maks. Etter pre-test satte de i gang med 11 dagers treningsintervensjon. Post-test ble gjennomført 7 dager etter avsluttet intervensjon, og de fikk ikke trene hardt 24 t før test. BP gjennomførte blokker på tre dager med 1-2 HIT økter per dag, og hviledag på dag 4 og 8. HIT-øktene bestod av 4x4 med 90-95 % av HR max. Øktene ble enten gjennomført på sykkel-ergometersykkel eller i en ski-relatert hinderløypa. Deltakerne ble overvåket under HIT-intensiteten ble overvåket av HR og Borg, og øktene ble overvåket. BP gjennomførte beinstyrke på hviledagen og gjennomførte normal styrketrening på mage og overkropp. TRAD gruppa fortsatte sin normale trening. 
+
+Totalt treningsvolum var signifikant lavere i BP gruppa kontra TRAD, men opplevd anstrengelse var større. Den totalt treningsbelastningen var dermed lik. VO2maks i forhold til kroppsmasse ble signifikant bedre hos BP, mens det ikke var endring hos TRAD. 
+
+Like omstendigheter under pre og post-test. Alle testene ble utført på en ergometersykkel. 
+
+Resultat: alle resultat presenteres som gjennomsnitt +/- SD. Forskjellen mellom gruppene ble testet ved (to-halet) students t-test for uparrede prøver. Mens endringer mellom deltakerne fra pre til post test ble testet for signifikant ved to-halet students t-test for parrede prøver. ANOVA ble brukt for å sammenlikne forskjeller mellom grupper og kjønn på to faktorer (intervensjon x tid). Resultatene ble signifikante ved en p-verdi på over 0.05. 
 
 
 
