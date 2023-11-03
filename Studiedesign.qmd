@@ -8,19 +8,46 @@ bibliography: referanser/referanser.bib
 
 I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$) [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010]. Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
 
-Disse studiene ser på effekten av hvordan man kan bolklegge utholdnehetstrening sammeliknet med tradisjonell strukturering av utholdenhetstrening. Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). Èn av studiene [almquist2022] har også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten bolklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt hovedproblemet til studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å bolklegge utholdnehetstrening, framfor å trene tradisjonelt.  
+Felles for alle studiene er at de ser på blokklegging av utholdenhetstrening (BP = blokk-periodisering) sammenliknet med traidisjonell organisering av utholndehetstrening (TP = tradisjonall-periodisering). Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). Èn av studiene [almquist2022] har også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten blokklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt i hovedproblemet til alle studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å blokklegge utholdnehetstrening, framfor å trene tradisjonelt.  
 
-Utformingen av studiene er naturligvis ikke helt like, men felles for alle er at de blokklegger høyintensiv trening. Intensitetssonen som er brukt på HIT i disse studiene er sone 3, 88-100% av maksspuls (HR$_{maks}$). Dette tilsvarer intensitetssone 4/5 på olympiatoppens intensitetsskala for utholdenhet [@molmen2019]. Bolkleggingen av HIT blir sammenliknet mot tradisjonell strukturering av utholdenhetstrening, som omhandler en kombinasjon av lavintensiv trening (LIT) og høyintensiv trening (HIT).
+Utformingen av studiene er naturligvis ikke helt like, men alle ser på blokklegger av utholdenhetstreninga, med fokus på høyintesiv trening (HIT). Blokkleggingen av HIT blir sammenliknet opp mot tradisjonell strukturering av utholdenhetstrening, som omhandler en kombinasjon av lavintensiv trening (LIT) og høyintensiv trening (HIT).
 
 
 # Teori
 
-Både LIT og HIT utholdenhetstrening har positive effekter på det maksimale oksygenopptaket (VO$_{2maks}$) [@helgerud2001; @helgerud2007; @ingham2008]. Det ser også ut til at det er nødvendig med en kombinasjon av LIT og HIT for å oppnå optimal utvikling av utholdenhet [@seiler2010]. For trente idrettsutøvere ser det likevel ut til at trening nær eller svært nær deres VO$_{2maks}$ er en effektiv stimuli for å ytterligere forbedre denne variabelen [@laursen2002]. Hvordan man skal strukturere LIT og HIT trening for å omtimalisere utviklingen er fortsatt noe usikkert, og det er nettopp dette disse studiene i denne rapporter tar for seg. 
+Både LIT og HIT utholdenhetstrening har positive effekter på det maksimale oksygenopptaket (VO$_{2maks}$) [@helgerud2001; @helgerud2007; @ingham2008]. Det ser også ut til at det er nødvendig med en kombinasjon av LIT og HIT for å oppnå optimal utvikling av utholdenhet [@seiler2010]. For trente idrettsutøvere ser det likevel ut til at trening nær eller svært nær deres VO$_{2maks}$ er en effektiv stimuli for å ytterligere forbedre denne variabelen [@laursen2002]. Hvordan man skal strukturere LIT og HIT for å omtimalisere utviklingen er fortsatt noe usikkert, og det er nettopp dette disse studiene i denne rapporter tar for seg. 
 
-Tradisjonell organisering (TRAD) av utholdenhetstrening har handlet gjennomgående om to HIT-økter i uka, og ellers fylt opp med LIT trening. Blokkperiodisering er kortere perioder (1-4 uker) der hovedfokuset er på å forbedre spesifikke egenskaper, som VO$_{2maks}$, mens det handler om å vedlikeholde andre egenskaper. Tanken bak blokklegging av trening er å gi tilstrekkelig stimuli for å oppnå ytterligere tilpasninger hos godt trente idrettsutøvere, etterfulgt av restitusjon. Noen mener at dette ikke er mulig å oppnå ved et generelt fokus på mange egenskaper samtidig [@issurin2010]. 
+Tradisjonell periodisering av utholdenhetstrening har gjennomgående handlet om to HIT-økter i uka, og ellers fylt opp med LIT utholdenhetstrening [@seiler2004]. Blokkperiodisering er kortere perioder (1-4 uker) der hovedfokuset er å forbedre spesifikke egenskaper, som VO$_{2maks}$, mens man skal vedlikeholde andre egenskaper. Tanken bak BP av utholdenhetstrening er å gi tilstrekkelig stimuli for å oppnå ytterligere tilpasninger hos godt trente idrettsutøvere, etterfulgt av restitusjon. Noen mener at dette ikke er mulig å oppnå ved et generelt fokus på mange egenskaper samtidig, slik som TP [@issurin2010]. Det brede problemet som disse studiene prøver å finne løsningen på er hvordan man skal organisere utholdenhetstrening på for å oppnå en best mulig effekt på utholdenhetsvariabler ved å sammenligne BP med TP. 
 
-Basert på denne teorien har studiene utformet en hypotese som går ut på at BP vil gi en  større effekt på utholdenhetsvariabelen VO$_{2maks}$ sammenlikenet med tradisjonell utholdenhetstrening. 
+Basert på denne teorien har studiene utformet sine egne hypoteser som i hovedsak går ut på at BP vil gi en  større effekt på utholdenhetsvariabelen VO$_{2maks}$ sammenliknet med tradisjonell utholdenhetstrening. Studien fra [@almquist2022] skiller seg ut ved at den ikke har utviklet en hypotese eller et spørsmål, men formulerer likevel at målet med studien er å sammenlikne effekten på BP med TP. 
 
 # Metode
 
+## Studiedesign
+
+Alle studiene er randomiserte kontrollerte studier (RCT) [@hulley2013]. I RCT blir deltakerne tilfeldig delt i grupper, og i alle disse gruppene omhandler det to grupper, én intervensjonsgruppe (BP-gruppa) og én kontrollgruppe (TP-gruppa). Dette er et studiedesign som skal minimere skjevheter, og sikre at resultatene blir så pålitelige som mulig. På den måten ser man om resultatene man oppnår av studien har en virkelig effekt, og i hvilken grad. Man minimerer risikoen for at andre faktorer påvirker resultatet. I alle studiene ble det gjennomført en form for pre-test før gruppene ble randomisert. Utfallet av dette sørget for at det ikke var skjevheter i VO$_{2maks}$ hos gruppene før intervensjonen startet. Utgangspunktet til deltakerne skal dermed ikke ha noe å si for utfallet av studien.  
+ 
+Likevel er det litt ulik utforming av studiedesign i disse fem studiene. I studiene til @rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022 er treninga til TP-gruppa nøye regulert og tatt kontroll over. På den måten sørger studiene for at de er helt sikre på at organiseringen av utholdenhetstreninga til gruppene er forskjellig. Det totale treningsvolumet av både HIT og LIT trening, og det totale antall HIT-økter er likevel lik mellom begge gruppene. Treninga til BP-gruppa og TP-gruppa er dermed omtrent akkurat den samme, men organisert på forksjellige måter. Det gir stor pålitelighet for at resultatene av studien baserer seg på nettopp det de ønsker å se på, effekten av BP sammenliknet med TP. 
+
+I studien til @breil2010 er det ikke formulert et opplegg til TP-gruppa. Studien har derfor ingen kontroll på hva denne gruppa har utført av trening under intervensjonsperioden. Det gir en større feilkilde når de sammenlikner effekten av BP sammenliknet med TP. 
+
+## Deltakere og rekruttering
+
+I studiene deltok det totalt 19, 15, 19, 30 og 21 [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010], og personene var fordelt tilnærmet likt mellom BP- og TP-gruppene. Deltakerne var ansett som godt trente i studiene til @rønnestad2014a; @rønnestad2014b; @almquist2022 [@pauw2013; @jeukendrup2000]. Studiene til @rønnestad2016 & @breil2010 ble deltkaerne klassifisert som eliteutøvere basert på resultat i deres idrett. Deltakerne meldte seg enten på frivillig til å delta i studiene (@rønnestad2014a; @rønnestad2014b; @rønnestad2016) eller ble rekruttert fra lokale sykkel- og alpintlag på og i nærheten av trenings- og testsenteret (@almquist2022; @breil2010).  
+
+Alle deltakerne ble informert om risikoer ved deltakelsen på forhånd, og måtte gi sitt skriftlige informerte samtykke før studiedeltakelsen. Disse studiene ble enten godkjent av den lokale etiske komite ved Høgskolen i Lillehammer eller den etiske komiteen i Bern, Sveits, og gjennomført i henhold til Helsinki-erklæringen. 
+
+Ingen av studiene har begrunnet utvalgsstørrelsen, men flere opplyste om frafall av deltakere utover i intervensjonsperioden på bakgrunn av sykdom, medisinske årsaker eller for stor treningsbelastning. Det er dermed ikke gjort noen beregninger på hvor mange deltakere det hadde vært gunstig å hatt med i studien. 
+
+## Gjennomføring av studien
+
+
+
+
+# Resultat
+
+I studien til @almquist2022 ble tre deltakere (BP = 2 og TP = 1) eksludert fra analysene på grunn av manglende overholdelse av treningsinervensjonen eller fullførte BP over for lang tid.
+
+
+Intensitetssonen som er brukt på HIT i disse studiene er sone 3, 88-100% av maksspuls (HR$_{maks}$). Dette tilsvarer intensitetssone 4/5 på olympiatoppens intensitetsskala for utholdenhet [@molmen2019].
 
