@@ -6,7 +6,7 @@ bibliography: referanser/referanser.bib
 
 # Introduksjon
 
-I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$): studie 1 (@rønnestad2014a), studie 2 (@rønnestad2014b), studie 3 (@rønnestad2016), studie 4 (@almquist2022) og studie 5 (@breil2010). Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
+I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$) [@rønnestad2014a og @rønnestad2014b og @rønnestad2016 og @almquist2022 og @breil2010]. Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
 
 Felles for alle studiene er at de ser på blokklegging av utholdenhetstrening (BP = blokk-periodisering) sammenliknet med traidisjonell organisering av utholndehetstrening (TP = tradisjonall-periodisering). Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). I studie 4 er det også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten blokklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt i hovedproblemet til alle studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å blokklegge utholdnehetstrening, framfor å trene tradisjonelt.  
 
@@ -39,13 +39,15 @@ Alle deltakerne ble informert om risikoer ved deltakelsen på forhånd, og mått
 
 Ingen av studiene har begrunnet utvalgsstørrelsen, men flere opplyste om frafall av deltakere utover i intervensjonsperioden på bakgrunn av sykdom, medisinske årsaker eller for stor treningsbelastning. Det er dermed ikke gjort noen beregninger på hvor mange deltakere det hadde vært gunstig å hatt med i studien. 
 
-## Gjennomføring av studien
+## Testing
 
 Intervensjonsperioden på studiene varierte fra 11 dager til 12 uker. Før intervensjonsperioden ble det gjennomført pre-tester av ulike typer. Studie 1, 2, 3 og 5 gjennomførte fysiske tester som bestemte VO$_{2maks}$, laktatprofil, maksimal aerob effekt (W$_{maks}$) og prestasjonstest over én eller to testdager. Studie 4 gjennomførte fysiske tester over to testdager, og så på de samme variablene som de andre studiene. I likhet med studie 2 ble det tatt hemoglobinmasse, i tillegg til muskelbiopsi i studie 4. 
 
 De fysiske testene ble gjennomført i samme aktivitetsform som HIT-øktene. 
 
 Alle studiene sørget for at forberedelsene, omstendighetene og prosedyrene var så like som mulig på pre- og post-test.  
+
+## Treningsintervensjon
 
 # Resultat
 
