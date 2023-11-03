@@ -6,9 +6,9 @@ bibliography: referanser/referanser.bib
 
 # Introduksjon
 
-I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$) [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010]. Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
+I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$): studie 1 (@rønnestad2014a), studie 2 (@rønnestad2014b), studie 3 (@rønnestad2016), studie 4 (@almquist2022) og studie 5 (@breil2010). Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
 
-Felles for alle studiene er at de ser på blokklegging av utholdenhetstrening (BP = blokk-periodisering) sammenliknet med traidisjonell organisering av utholndehetstrening (TP = tradisjonall-periodisering). Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). Èn av studiene [almquist2022] har også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten blokklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt i hovedproblemet til alle studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å blokklegge utholdnehetstrening, framfor å trene tradisjonelt.  
+Felles for alle studiene er at de ser på blokklegging av utholdenhetstrening (BP = blokk-periodisering) sammenliknet med traidisjonell organisering av utholndehetstrening (TP = tradisjonall-periodisering). Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). I studie 4 er det også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten blokklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt i hovedproblemet til alle studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å blokklegge utholdnehetstrening, framfor å trene tradisjonelt.  
 
 Utformingen av studiene er naturligvis ikke helt like, men alle ser på blokklegger av utholdenhetstreninga, med fokus på høyintesiv trening (HIT). Blokkleggingen av HIT blir sammenliknet opp mot tradisjonell strukturering av utholdenhetstrening, som omhandler en kombinasjon av lavintensiv trening (LIT) og høyintensiv trening (HIT).
 
@@ -25,7 +25,7 @@ Basert på denne teorien har studiene utformet sine egne hypoteser som i hovedsa
 
 ## Studiedesign
 
-Alle studiene er randomiserte kontrollerte studier (RCT) [@hulley2013]. I RCT blir deltakerne tilfeldig delt i grupper, og i alle disse gruppene omhandler det to grupper, én intervensjonsgruppe (BP-gruppa) og én kontrollgruppe (TP-gruppa). Dette er et studiedesign som skal minimere skjevheter, og sikre at resultatene blir så pålitelige som mulig. På den måten ser man om resultatene man oppnår av studien har en virkelig effekt, og i hvilken grad. Man minimerer risikoen for at andre faktorer påvirker resultatet. I alle studiene ble det gjennomført en form for pre-test før gruppene ble randomisert. Utfallet av dette sørget for at det ikke var skjevheter i VO$_{2maks}$ hos gruppene før intervensjonen startet. Utgangspunktet til deltakerne skal dermed ikke ha noe å si for utfallet av studien.  
+Alle studiene er randomiserte kontrollerte studier (RCT) [@hulley2013]. I RCT blir deltakerne tilfeldig delt i grupper, og i alle disse gruppene omhandler det to grupper, én intervensjonsgruppe (BP-gruppa) og én kontrollgruppe (TP-gruppa). Dette er et studiedesign som skal minimere skjevheter, og sikre at resultatene blir så pålitelige som mulig. På den måten ser man om resultatene man oppnår av studien har en virkelig effekt, og i hvilken grad. Man minimerer risikoen for at andre faktorer påvirker resultatet. I alle studiene ble det gjennomført en form for pre-test før gruppene ble randomisert. Utfallet av dette sørget for at det ikke var skjevheter i VO$_{2maks}$ hos gruppene før intervensjonen startet. Utgangspunktet til deltakerne skal dermed ikke ha noe å si for utfallet av studien. To av studiene (@rønnestad2014a; @rønnestad2014b) er basert på samme forskningsprosjekt av samme deltakerutvalg og forskere, men den ene studien har sett på BP over en 12-ukersperiode, mens studie 2 har sett på effekten etter 4 uker.   
  
 Likevel er det litt ulik utforming av studiedesign i disse fem studiene. I studiene til @rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022 er treninga til TP-gruppa nøye regulert og tatt kontroll over. På den måten sørger studiene for at de er helt sikre på at organiseringen av utholdenhetstreninga til gruppene er forskjellig. Det totale treningsvolumet av både HIT og LIT trening, og det totale antall HIT-økter er likevel lik mellom begge gruppene. Treninga til BP-gruppa og TP-gruppa er dermed omtrent akkurat den samme, men organisert på forksjellige måter. Det gir stor pålitelighet for at resultatene av studien baserer seg på nettopp det de ønsker å se på, effekten av BP sammenliknet med TP. 
 
@@ -41,8 +41,11 @@ Ingen av studiene har begrunnet utvalgsstørrelsen, men flere opplyste om frafal
 
 ## Gjennomføring av studien
 
+Intervensjonsperioden på studiene varierte fra 11 dager til 12 uker. Før intervensjonsperioden ble det gjennomført pre-tester av ulike typer. Studie 1, 2, 3 og 5 gjennomførte fysiske tester som bestemte VO$_{2maks}$, laktatprofil, maksimal aerob effekt (W$_{maks}$) og prestasjonstest over én eller to testdager. Studie 4 gjennomførte fysiske tester over to testdager, og så på de samme variablene som de andre studiene. I likhet med studie 2 ble det tatt hemoglobinmasse, i tillegg til muskelbiopsi i studie 4. 
 
+De fysiske testene ble gjennomført i samme aktivitetsform som HIT-øktene. 
 
+Alle studiene sørget for at forberedelsene, omstendighetene og prosedyrene var så like som mulig på pre- og post-test.  
 
 # Resultat
 
