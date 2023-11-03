@@ -6,8 +6,21 @@ bibliography: referanser/referanser.bib
 
 # Introduksjon
 
-I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på VO$_{2maks}$ [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010]. Studiene er analysert, og det vil bli presentert styrker og svakheter ved disse. I tillegg er det sett på studiedesign, og spørsmål som studiene prøver å besvare sammenliknes. Avslutningsvis gis det råd om hvordan fremtidige studier bør utformes for å besvare lignende spørsmål.
+I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av blokkperiodisering på det maksimale oksygenopptaket (VO$_{2maks}$) [@rønnestad2014a; @rønnestad2014b; @rønnestad2016; @almquist2022; @breil2010]. Studiene er analysert, og det er sett på studiedesign og statistiske analyser. I tillegg vil det bli presentert styrker og svakheter rundt studiene, og avslutningsvis gis det råd om hvordan fremtidige studier bør utformes i henhold til å besvare lignende spørsmål.
+
+Disse studiene ser på effekten av hvordan man kan bolklegge utholdnehetstrening sammeliknet med tradisjonell strukturering av utholdenhetstrening. Studiene har sett på blant annet påvirkningen av VO$_{2maks}$, laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). Èn av studiene [almquist2022] har også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten bolklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt hovedproblemet til studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å bolklegge utholdnehetstrening, framfor å trene tradisjonelt.  
+
+Utformingen av studiene er naturligvis ikke helt like, men felles for alle er at de blokklegger høyintensiv trening. Intensitetssonen som er brukt på HIT i disse studiene er sone 3, 88-100% av maksspuls (HR$_{maks}$). Dette tilsvarer intensitetssone 4/5 på olympiatoppens intensitetsskala for utholdenhet [@molmen2019]. Bolkleggingen av HIT blir sammenliknet mot tradisjonell strukturering av utholdenhetstrening, som omhandler en kombinasjon av lavintensiv trening (LIT) og høyintensiv trening (HIT).
 
 
+# Teori
 
-Kilder: \[rønnestad2014\]
+Både LIT og HIT utholdenhetstrening har positive effekter på det maksimale oksygenopptaket (VO$_{2maks}$) [@helgerud2001; @helgerud2007; @ingham2008]. Det ser også ut til at det er nødvendig med en kombinasjon av LIT og HIT for å oppnå optimal utvikling av utholdenhet [@seiler2010]. For trente idrettsutøvere ser det likevel ut til at trening nær eller svært nær deres VO$_{2maks}$ er en effektiv stimuli for å ytterligere forbedre denne variabelen [@laursen2002]. Hvordan man skal strukturere LIT og HIT trening for å omtimalisere utviklingen er fortsatt noe usikkert, og det er nettopp dette disse studiene i denne rapporter tar for seg. 
+
+Tradisjonell organisering (TRAD) av utholdenhetstrening har handlet gjennomgående om to HIT-økter i uka, og ellers fylt opp med LIT trening. Blokkperiodisering er kortere perioder (1-4 uker) der hovedfokuset er på å forbedre spesifikke egenskaper, som VO$_{2maks}$, mens det handler om å vedlikeholde andre egenskaper. Tanken bak blokklegging av trening er å gi tilstrekkelig stimuli for å oppnå ytterligere tilpasninger hos godt trente idrettsutøvere, etterfulgt av restitusjon. Noen mener at dette ikke er mulig å oppnå ved et generelt fokus på mange egenskaper samtidig [@issurin2010]. 
+
+Basert på denne teorien har studiene utformet en hypotese som går ut på at BP vil gi en  større effekt på utholdenhetsvariabelen VO$_{2maks}$ sammenlikenet med tradisjonell utholdenhetstrening. 
+
+# Metode
+
+
