@@ -56,11 +56,29 @@ Før intervensjonsperioden ble det gjennomført pre-tester av ulike varianter. r
 
 I tillegg til å gjennomføre pre-test gjennomførte alle studiene en lik post-test, enten tre eller syv dager etter intervensjonen. Dette for å sikre at deltakerne var restituert etter treningsperioden. Studiene sørget for at forberedelsene til deltakerne, omstendighetene og testprosedyrene var så like som mulig på begge testene. I studien til Almquist et al. (2022) ble det gjennomført fysiske tester etter gjennomføring av én mesosyklus (4 uker) før de siste to mesosyklusene startet.   
 
+## VO$_{2maks}$
+
+Studiene tar utgangspunkt i variabelen VO$_{2maks}$ når de skal se på effekten av BP på deltakernes utvikling av aerob kapasitet. VO$_{2maks}$ er den høyeste hastigheten på den aerobe energiomsetningen (@åstrand2003), og er derfor regnet som en svært viktig bestemmende faktor for utholdenhetsprestasjon. For utholdenhetsprestasjon vil derfor faktorer som påvirker VO$_{2maks}$ være avgjørende å forbedre. Som skrevet tidligere har både HIT og LIT positiv effekt på aerob utholdenhet, målt som maksimalt oksygenopptak (@helgerud2001; @helgerud2007; @ingham2008). Forbedringer i denne variabelen avhenger av varighet, intensitet, hyppighet samt genetikk (@shephard1968; @wenger1986). Når utholdenhetsnivået til personer øker, ser det ut til at en økning i intensitet på den aerobe treningen er nødvendig for å oppnå en forbedring i VO$_{2maks}$ (@laursen2002). 
+
+Dette er den utholdenhetsvariabelen som de fleste av disse studiene relaterer til i hypotesen, og ønsker å forbedre på bakgrunn av at dette øker utholdenhetsprestasjonen. 
+
+## Statistiske analyser
+
+RCT-studiedesignet til disse studiene gjenspeiler valget av de statistiske analysene. Ettersom studiene sammenlikner to grupper brukes et verktøy for å se korreleasjon mellom gruppene for å leite etter statistisk signifikans. Studiene til Rønnestad et al., 2014a, Rønnestad et al., 2014b og Rønnestad et al., 2016 regnet ut effektstørrelsen som Cohen's d for å finne statistisk signifikans. Kriteriene som var satt som grense for å tolke effektstørrelsen (ES) var følgende: 0.0--0.2 triviell, 0.2--0.6 liten, 0.6--1.2 moderat, 1.2--2.0 stor, og >2.0 veldig stor (@hopkins2009). 
+
+Almquist et al. (2022) brukte heller en blandet lineær modell med grupper definert som «fixed effects» og korregert ved bruk av Pre-verdier som en kovarians med software SPSS v.25. 
+
+Breil et al. (2010) regnet ut forskjellen mellom gruppene ved to-halet t-test for uparrede tester, mens for å se endringene mellom deltakerne fra pre- til post-test ble det brukt to-halet t-test for parrede tester. ANOVA ble brukt for å sammenlikne forskjeller mellom grupper og kjønn på to faktorer (intervensjon x tid). ANOVA ble også brukt i @rønnestad2014a, @rønnestad2014b, @rønnestad2016, men i noe ulik grad. I to av studiene ble en to-veis repeterende analyse av varians brukt for å evaluere differansen innad og mellom gruppene fra pre- til post-test. I @rønnestad2014a, @rønnestad2014b ble uparrede t-test brukt for å sammenligne gruppene ved baseline og gruppenes treningsvolum. Samtidig ble pre- til post-test sammenliknet ved bruk av parrede t-tester, og for å teste forskjellene mellom gruppene ble uparrede t-tester brukt.  
 
 
 # Resultat
 
-I studien til @almquist2022 ble tre deltakere (BP = 2 og TP = 1) eksludert fra analysene på grunn av manglende overholdelse av treningsinervensjonen eller fullførte BP over for lang tid.
+I fire av fem studier økte den relative VO$_{2maks}$ signifikant hos BP-gruppa, mens det ikke var økning hos TP-gruppa (@rønnestad2014a, @rønnestad2014b, @rønnestad2016, @breil2010). I studien til Almquist et al. (2022), som gjennomførte VO$_{2maks}$-test etter både uke 4 og 12, var det ingen endring i VO$_{2maks}$ i noen av gruppene. I denne studien ble tre deltakere (BP = 2 og TP = 1) ekskludert fra analysene på grunn av manglende overholdelse av treningsinervensjonen eller fullført BP over for lang tid. 
+
+Hypotesen i hver studiene ble besvart, og stemte overens med resultatet i fire av fem studier.
+
+
+# Konklusjon
 
 
 
