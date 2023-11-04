@@ -10,7 +10,7 @@ I denne rapporten er det valgt ut fem forskningsstudier som ser på effekten av 
 
 Felles for alle studiene er at de ser på blokklegging av utholdenhetstrening (BP = blokk-periodisering) sammenliknet med traidisjonell organisering av utholndehetstrening (TP = tradisjonall-periodisering). Studiene har sett på blant annet påvirkningen av det maksimale oksygenopptaket (VO$_{2maks}$), laktatterskel, submakismal og maksimal aerob effekt, prestasjonstester i ulike varianter og hemoglobinmasse (HB$_{mass}$). I studien til Almquist et al. (2022) er det også gjort muskulære analyser av deltakerne. Denne rapporten vil i hovedsak fokusere på hvilken effekten blokklegging har på VO$_{2maks}$. Rapporten tar dermed utgangspunkt i hovedproblemet til alle studiene: hvordan kan man best mulig optimalisere effekten på VO$_{2maks}$ ved å blokklegge utholdnehetstrening, framfor å trene tradisjonelt.  
 
-Utformingen av studiene er naturligvis ikke helt like, men alle blokklegger høyintensiv trening (HIT), og sammenlikner dette opp mot tradisjonell strukturering av utholdenhetstrening. Tradisjonell utholdenhetstrening omhandler en kombinasjon av lavintensiv trening (LIT) og HIT. 
+Utformingen av studiene er naturligvis ikke helt like, og studiene er gjennomført på både syklister (@rønnestad2014a, @rønnestad2014b, @almquist2022), langrennsløpere og skiskyttere (@rønnestad2016) og alpinister (@breil2010). Alle studiene blokklegger høyintensiv trening (HIT), og sammenlikner dette opp mot tradisjonell strukturering av utholdenhetstrening. Tradisjonell utholdenhetstrening omhandler en kombinasjon av lavintensiv trening (LIT) og HIT. 
 
 
 # Teori
@@ -73,14 +73,19 @@ Breil et al. (2010) regnet ut forskjellen mellom gruppene ved to-halet t-test fo
 
 # Resultat
 
-I fire av fem studier økte den relative VO$_{2maks}$ signifikant hos BP-gruppa, mens det ikke var økning hos TP-gruppa (@rønnestad2014a, @rønnestad2014b, @rønnestad2016, @breil2010). I studien til Almquist et al. (2022), som gjennomførte VO$_{2maks}$-test etter både uke 4 og 12, var det ingen endring i VO$_{2maks}$ i noen av gruppene. I denne studien ble tre deltakere (BP = 2 og TP = 1) ekskludert fra analysene på grunn av manglende overholdelse av treningsinervensjonen eller fullført BP over for lang tid. 
+I fire av fem studier økte den relative VO$_{2maks}$ signifikant hos BP-gruppa, mens det ikke var økning hos TP-gruppa. ES av den relative forbedringen i VO$_{2maks}$ viser moderat til høy effket av BP sammenliknet med TP (@rønnestad2014a, @rønnestad2014b, @rønnestad2016, @breil2010).
+
+I studien til Almquist et al. (2022), som gjennomførte VO$_{2maks}$-test etter både uke 4 og 12, var det ingen endring i VO$_{2maks}$ i noen av gruppene. Denne studien blokkperiodiserte både HIT, MIT og LIT, og TP-gruppa hadde en syklis progressiv økning i belastning utover i hver mesosyklus. 
+
+Resultatene i fire av de fem analyserte studiene viser at blokkperiodisering av trening gir overlegne effekter på VO$_{2maks}$ sammenliknet med TP. Dette til tross for at treningsvolum og intensitet er lik mellom BP- og TP-gruppa.
 
 Hypotesen i hver studiene ble besvart, og stemte overens med resultatet i fire av fem studier.
 
 
-# Konklusjon
+# Diskusjon
 
 
 
 
 Studiene tar ikke for seg restitusjonstiltak. 
+
